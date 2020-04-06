@@ -1,3 +1,5 @@
+# This package was published as a temporary fix for registerOnRemoveHandler not working for connectors. It was forked from @microsoft/teams-js 1.6.0. Please check the original repo to see if this has been fixed before using this one.
+
 # [Microsoft Teams JavaScript Library](https://msdn.microsoft.com/en-us/microsoft-teams/)
 
 This JavaScript library is part of the [Microsoft Teams developer platform](https://msdn.microsoft.com/en-us/microsoft-teams/). For documentation, see [Reference: Microsoft Teams JavaScript library](https://docs.microsoft.com/en-us/javascript/api/overview/msteams-client).
